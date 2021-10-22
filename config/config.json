@@ -1,0 +1,10 @@
+{
+    "development":{
+        "PORT":3032,
+        "MONGODB_URI": "mongodb://localhost:27017/MEANStackDB"
+    },
+    "production":{
+        "PORT":8008,
+        "MONGODB_URI": "mongodb://localhost:27017/MEANStackDB"
+    }
+}
